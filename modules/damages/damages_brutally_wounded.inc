@@ -32,6 +32,6 @@ public OnPlayerTakeDamage(playerid, issuerid, Float:amount, weaponid, bodypart)
 forward OnPlayerGetBrutallyWounded(playerid, issuerid);
 public OnPlayerGetBrutallyWounded(playerid, issuerid)
 {
-    ApplyAnimationById(playerid, SWEET_LaFin_Sweet, 4.1, 0, 1, 1, 1, 0);
+    ApplyAnimationById(playerid, SWEET_LAFIN_SWEET, 4.1, 0, 1, 1, 1, 0);
     return 1;
 }
