@@ -6,7 +6,8 @@
 	"output": "gamemodes\\bare.amx",
 	"dependencies": [
 		"pawn-lang/samp-stdlib",
-		"pawn-lang/YSI-Includes"
+		"pawn-lang/YSI-Includes",
+		"Y-Less/sscanf:v2.11.4"
 	],
 	"local": true
 }
