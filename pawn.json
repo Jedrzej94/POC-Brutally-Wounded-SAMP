@@ -1,0 +1,12 @@
+{
+	"user": "Jed",
+	"repo": "__testSrvSamp037_R2-1-1",
+	"tag": "0.0.1",
+	"entry": "gamemodes\\bare.pwn",
+	"output": "gamemodes\\bare.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"pawn-lang/YSI-Includes"
+	],
+	"local": true
+}
